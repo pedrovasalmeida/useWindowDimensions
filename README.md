@@ -1,10 +1,16 @@
 # Instalação
 
+```shell
+npm install use-window-dimensions
+------------------------------
+yarn add use-window-dimensions
+```
+
 # Como usar
 - Importe o pacote:
 
 ```ts
-import useWindowDimension from 'useWindowDimensions';
+import useWindowDimension from 'use-window-dimensions';
 ```
 
 Funcionamento:
