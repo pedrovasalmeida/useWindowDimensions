@@ -1,6 +1,6 @@
 {
   "name": "use-window-dimensions",
-  "author": "Pedro H. V. Almeida <pedrovasalmeida@gmail.com>",
+  "author": "pedrovasalmeida",
   "private": false,
   "description": "Função para obter os tamanhos atuais da tela.",
   "version": "1.0.0",
