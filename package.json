@@ -4,7 +4,7 @@
   "private": false,
   "description": "Função para obter os tamanhos atuais da tela.",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.ts",
   "license": "MIT",
   "repository": {
     "type": "git",
