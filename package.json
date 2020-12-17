@@ -1,8 +1,13 @@
 {
   "name": "useWindowDimensions",
+  "description": "Função para obter os tamanhos atuais da tela.",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedrovasalmeida/useWindowDimensions"
+  },
   "dependencies": {
     "@types/react": "^17.0.0",
     "react": "^17.0.1"
