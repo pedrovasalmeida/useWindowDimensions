@@ -3,7 +3,7 @@
   "author": "pedrovasalmeida",
   "private": false,
   "description": "Função para obter os tamanhos atuais da tela.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.ts",
   "license": "MIT",
   "repository": {
