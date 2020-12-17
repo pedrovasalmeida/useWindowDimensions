@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect } from 'react';
 
 const getWindowDimensions = () => {
   const { innerWidth: width, innerHeight: height } = window;
@@ -12,9 +12,9 @@ const useWindowDimensions = () => {
   );
 
   useEffect(() => {
-    const handleSize = useCallback(() => {
+    const handleSize = () => {
       setWindowDimensions(getWindowDimensions);
-    }, []);
+    };
 
     window.addEventListener('resize', handleSize);
 
